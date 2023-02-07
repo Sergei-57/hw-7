@@ -284,6 +284,9 @@ a {
   margin-right: 30px;
 }
 
+.social-media-icon:hover {
+  transform: scale(1.2, 1.2);
+}
 
 .footer-copyright {
   font-family: 'Raleway';
