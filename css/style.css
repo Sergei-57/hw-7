@@ -118,6 +118,11 @@ a {
   background: transparent;
 }
 
+.inner-col-button:hover {
+  border: 2px solid red;
+  color: red;
+}
+
 .inner-col-button-text {
   font-family: 'Open Sans';
   font-weight: 600;
@@ -171,6 +176,12 @@ a {
   background: #EC7979;
   border-radius: 0px 0px 10px 10px;
   border: none;
+}
+
+.inner-col-button-started:hover {
+  border: 2px solid rgb(255, 0, 0);
+  background: rgb(255, 0, 0);
+  color: #000000;
 }
 
 .inner-col-button-started-text {
@@ -252,6 +263,11 @@ a {
   height: 58px;
   border: 2px solid #FFFFFF;
   background: transparent;
+}
+
+.design-btn:hover {
+  border: 2px solid red;
+  color: red;
 }
 
 .design-btn-text {
